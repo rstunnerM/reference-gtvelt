@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rstunnerM.github.io/reference-gtvelt/sitemap.xml
